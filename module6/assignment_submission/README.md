@@ -1,4 +1,4 @@
-Text and images in LinAnnabel_Module6Writeup.pdf
+Text and images in LinAnnabel_Module6Assignment_Writeup.pdf
 
 GPU code in assignment.cu
 
